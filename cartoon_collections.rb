@@ -1,5 +1,5 @@
 def roll_call_dwarves(names) # code an argument here
-  
+  puts "#{names}"
   
   # Your code here
 end
